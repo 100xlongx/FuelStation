@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj": {}
+    "C:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj": {
+    "C:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
+        "projectUniqueName": "C:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
         "projectName": "FuelStation",
-        "projectPath": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
+        "projectPath": "C:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
         "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\obj\\",
+        "outputPath": "C:\\Users\\Lntinfotech\\Projects\\FuelStation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"

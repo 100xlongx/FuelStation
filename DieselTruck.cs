@@ -9,7 +9,7 @@ namespace FuelStation
         }
 
         public decimal getPrice() {
-            return 5.00M;
+            return 3.15M;
         }
     }
 }
