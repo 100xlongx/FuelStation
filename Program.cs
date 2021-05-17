@@ -9,7 +9,7 @@ namespace FuelStation
             var fuelStation = new FuelStation();
             var carStrat = new Car();
 
-            Console.WriteLine(fuelStation.fuelCar(9, carStrat));
+            Console.WriteLine(fuelStation.getFuel(9, carStrat));
         }
     }
 }

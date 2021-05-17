@@ -1,14 +1,15 @@
 namespace FuelStation
 {
-    public class Car : IFuelStrategy {
-        public int maxFuel { get {return 12;} set {maxFuel = value;} }
+    public class Jet : IFuelStrategy
+    {
+        public int maxFuel { get {return 320;} set {maxFuel = value;} }
 
         public decimal getFuel(int currentFuel) {
             return (maxFuel - currentFuel) * this.getPrice();
         }
 
         public decimal getPrice() {
-            return 3.00M;
+            return 10.00M;
         }
     }
 }

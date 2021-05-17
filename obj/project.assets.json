@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lntinfotech\\galvanize\\FuelStation\\FuelStation.csproj",
+      "projectUniqueName": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
       "projectName": "FuelStation",
-      "projectPath": "C:\\Users\\Lntinfotech\\galvanize\\FuelStation\\FuelStation.csproj",
+      "projectPath": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\FuelStation.csproj",
       "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lntinfotech\\galvanize\\FuelStation\\obj\\",
+      "outputPath": "c:\\Users\\Lntinfotech\\Projects\\FuelStation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
